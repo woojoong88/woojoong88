@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats
-![Woojoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojoong88&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+![Woojoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=woojoong88&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)
